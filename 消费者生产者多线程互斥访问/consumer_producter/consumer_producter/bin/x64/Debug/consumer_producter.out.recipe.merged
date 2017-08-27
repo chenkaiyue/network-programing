@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <LocalLibPath>D:\网络编程\消费者生产者多线程互斥访问\consumer_producter\consumer_producter\bin\x64\Debug\consumer_producter.out</LocalLibPath>
-  <ObjPaths>D:\网络编程\消费者生产者多线程互斥访问\consumer_producter\consumer_producter\obj\x64\Debug\</ObjPaths>
-  <Configuration>Debug</Configuration>
-  <Platform>x64</Platform>
-</Project>
