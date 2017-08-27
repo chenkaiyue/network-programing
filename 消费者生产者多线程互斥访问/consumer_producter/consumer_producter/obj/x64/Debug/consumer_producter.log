@@ -1,0 +1,9 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '202.117.14.245'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  cc1plus: error: unrecognized command line option '-std=c++11'
+  
+E:\Visual Stutio 2017\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(246,5): error : unrecognized command line option '-std=c++11'
